@@ -1,0 +1,1 @@
+React app using Redux for state management. The plus and minus buttons increment and decrement the value. Each time the buttons are pressed, that is also being counted. In the last input, a number can be manually added with the state reflecting the value change. When the value is changed using the input, the button counter will reset.
